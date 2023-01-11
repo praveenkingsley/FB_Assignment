@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-11T12:55:56 IST" name="Suite" finished-at="2023-01-11T12:56:40 IST" duration-ms="43405">
+    <groups>
+    </groups>
+    <test started-at="2023-01-11T12:55:56 IST" name="Test" finished-at="2023-01-11T12:56:40 IST" duration-ms="43405">
+      <class name="com.TestCases.TC01_VerifyLogin">
+        <test-method is-config="true" signature="before()[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:55:56 IST" name="before" finished-at="2023-01-11T12:55:58 IST" duration-ms="1095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:55:59 IST" name="LoginTest" data-provider="LoginData" finished-at="2023-01-11T12:56:10 IST" duration-ms="11799" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:55:59 IST" name="LoginTest" data-provider="LoginData" finished-at="2023-01-11T12:56:11 IST" duration-ms="12145" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:55:59 IST" name="LoginTest" data-provider="LoginData" finished-at="2023-01-11T12:56:11 IST" duration-ms="12212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:10 IST" name="after" finished-at="2023-01-11T12:56:12 IST" duration-ms="1220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:11 IST" name="after" finished-at="2023-01-11T12:56:11 IST" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:11 IST" name="after" finished-at="2023-01-11T12:56:11 IST" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:11 IST" name="LoginTest" data-provider="LoginData" finished-at="2023-01-11T12:56:17 IST" duration-ms="5355" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:11 IST" name="LoginTest" data-provider="LoginData" finished-at="2023-01-11T12:56:17 IST" duration-ms="5396" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test5@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:12 IST" name="LoginTest" data-provider="LoginData" finished-at="2023-01-11T12:56:17 IST" duration-ms="5549" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test6@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:17 IST" name="after" finished-at="2023-01-11T12:56:18 IST" duration-ms="1012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:17 IST" name="after" finished-at="2023-01-11T12:56:17 IST" duration-ms="686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:17 IST" name="after" finished-at="2023-01-11T12:56:18 IST" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:17 IST" name="LoginTest" data-provider="LoginData" finished-at="2023-01-11T12:56:27 IST" duration-ms="9459" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test7@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:18 IST" name="LoginTest" data-provider="LoginData" finished-at="2023-01-11T12:56:23 IST" duration-ms="5480" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test8@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:18 IST" name="LoginTest" data-provider="LoginData" finished-at="2023-01-11T12:56:23 IST" duration-ms="5822" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test9@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:23 IST" name="after" finished-at="2023-01-11T12:56:39 IST" duration-ms="16463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:23 IST" name="after" finished-at="2023-01-11T12:56:24 IST" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:24 IST" name="LoginTest" data-provider="LoginData" finished-at="2023-01-11T12:56:26 IST" duration-ms="2493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test10@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:26 IST" name="after" finished-at="2023-01-11T12:56:27 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="after()[pri:0, instance:com.TestCases.TC01_VerifyLogin@18078bef]" started-at="2023-01-11T12:56:27 IST" name="after" finished-at="2023-01-11T12:56:27 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.TestCases.TC01_VerifyLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
